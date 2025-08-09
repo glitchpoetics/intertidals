@@ -1,1 +1,1 @@
-# intertidal-uploaders
+# intertidals
